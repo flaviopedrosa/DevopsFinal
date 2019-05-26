@@ -1,0 +1,2 @@
+# DevopsFinal
+). O João é um caixeiro viajante que tem clientes em cinco cidades, que abreviamos por A, B, C, D e E. Ele precisa de planear uma viagem de negócios com cidade de partida e de destino final A (a cidade onde mora), passando por cada uma das restantes quatro cidades precisamente uma vez. O grafo abaixo representa o custo de cada viagem (em qualquer um dos sentidos) entre cada par de cidades. 
