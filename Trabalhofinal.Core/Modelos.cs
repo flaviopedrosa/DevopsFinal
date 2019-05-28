@@ -157,7 +157,7 @@ namespace Trabalhofinal.Core
                 buffer.Append(item.Key);
                 buffer.Append(": ");
                 buffer.Append(item.Value);
-                buffer.Append(" / ");
+                buffer.Append(" \r\n");
 
             }
             return buffer.ToString();

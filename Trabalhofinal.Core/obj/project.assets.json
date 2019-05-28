@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Documentos\\Visual Studio 2017\\Projects\\TrabalhoFinal.web\\Trabalhofinal.Core\\Trabalhofinal.Core.csproj",
+      "projectUniqueName": "C:\\Devops\\TrabalhoFinal\\DevopsFinal\\Trabalhofinal.Core\\Trabalhofinal.Core.csproj",
       "projectName": "Trabalhofinal.Core",
-      "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\Visual Studio 2017\\Projects\\TrabalhoFinal.web\\Trabalhofinal.Core\\Trabalhofinal.Core.csproj",
+      "projectPath": "C:\\Devops\\TrabalhoFinal\\DevopsFinal\\Trabalhofinal.Core\\Trabalhofinal.Core.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\Visual Studio 2017\\Projects\\TrabalhoFinal.web\\Trabalhofinal.Core\\obj\\",
+      "outputPath": "C:\\Devops\\TrabalhoFinal\\DevopsFinal\\Trabalhofinal.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
