@@ -1,0 +1,9 @@
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\Trabalhofinal.Core\bin\Debug\netcoreapp2.0\Trabalhofinal.Core.deps.json
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\Trabalhofinal.Core\bin\Debug\netcoreapp2.0\Trabalhofinal.Core.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\Trabalhofinal.Core\bin\Debug\netcoreapp2.0\Trabalhofinal.Core.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\Trabalhofinal.Core\obj\Debug\netcoreapp2.0\Trabalhofinal.Core.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\Trabalhofinal.Core\obj\Debug\netcoreapp2.0\Trabalhofinal.Core.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\Trabalhofinal.Core\obj\Debug\netcoreapp2.0\Trabalhofinal.Core.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\Trabalhofinal.Core\obj\Debug\netcoreapp2.0\Trabalhofinal.Core.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\Trabalhofinal.Core\obj\Debug\netcoreapp2.0\Trabalhofinal.Core.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\Trabalhofinal.Core\obj\Debug\netcoreapp2.0\Trabalhofinal.Core.pdb

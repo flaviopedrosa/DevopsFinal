@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\bin\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.deps.json
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\bin\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\bin\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\bin\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\bin\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\bin\Debug\netcoreapp2.0\Trabalhofinal.Core.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\bin\Debug\netcoreapp2.0\Trabalhofinal.Core.pdb
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\obj\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\obj\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\obj\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\obj\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\obj\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\obj\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.dll
+C:\Users\pedro\OneDrive\Documentos\Visual Studio 2017\Projects\TrabalhoFinal.web\TrabalhoFinal.Cmd\obj\Debug\netcoreapp2.0\TrabalhoFinal.Cmd.pdb
